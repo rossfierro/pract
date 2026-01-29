@@ -4,5 +4,7 @@ v=10
 print (v)
 print("El valor  es: ",v)
 print ("estamos empezando con  python")
+print (" se esta batallando un poco para sbir ")
+
 
 
